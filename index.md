@@ -1,8 +1,7 @@
 #Hello, world!
 
 git commands: 
-git init - initializes repository
+git init
 git status
 git add 
 git commit
-
