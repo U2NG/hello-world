@@ -1,7 +1,7 @@
 
 <html>
 
-#Hello, world!
+# Hello, world!
 
 git commands: 
 git init - initializes git 
