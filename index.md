@@ -1,5 +1,4 @@
 
-<html>
 
 # Hello, world!
 
@@ -8,10 +7,10 @@ git init - initializes git
 git status
 git add 
 git commit
-git log
+<h1>git log</h1>
 git diff
 git restore
 
-</html>
+
 
 
